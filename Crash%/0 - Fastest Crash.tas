@@ -1,0 +1,45 @@
+#Category: Fastest Crash
+#Authors: MGR
+
+#Start from pre-title screen load
+Write, 32, RNG, 0x47244A0C
+Enforce Legal
+
+#Start
+ 144
+   1,J
+Insert Load, ExitTitleScreen
+
+  61
+   1,J
+ 127
+   1,J
+Insert Load, NewFileSelect
+
+ 720
+   2,R,N
+  28
+   1,J
+ 224
+   1,J
+Insert Load, 1-1 Start
+Read, 01-01.tas
+
+ 429
+   2,R,N
+  37
+   1,J
+ 245
+   1,J
+Insert Load, 1-2 Start
+Read, 01-02.tas
+
+ 416
+   2,R,N
+  37
+   1,J
+ 244
+   1,J
+#RNG - Hammer Bros
+Insert Load, 1-3 Start
+Read, 01-03.tas
