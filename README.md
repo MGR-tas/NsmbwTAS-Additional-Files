@@ -13,6 +13,6 @@ The TAS files in this repository are often incomplete, obsolete, or just here to
 If you TAS a level that might be useful later, send it to me and I'll add it to this repository. 
 
 ## Contact: 
-@mgr_tas on Discord
+`#tas-discussion` in the [NSMBW Speedrunning Discord Server](https://discord.gg/T7Nwspm)
 
-Through my Discord server: https://discord.gg/JxXxKAPKwT
+[My Discord Server](https://discord.gg/JxXxKAPKwT)
